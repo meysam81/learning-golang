@@ -1,0 +1,6 @@
+{
+  "dialect": "<dialect>",
+  "dbname": "<dbname>",
+  "user": "<user>",
+  "password": "<password>"
+}
